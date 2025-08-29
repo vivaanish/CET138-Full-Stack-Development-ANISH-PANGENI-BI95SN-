@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JavaScript Section</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="html.html">HTML</a></li>
+        <li><a href="css.html">CSS</a></li>
+        <li><a href="bootstrap.html">Bootstrap</a></li>
+        <li><a href="javascript.html" class="active">JavaScript</a></li>
+      </ul>
+    </nav>
+  </header>
+
+ <section id="javascript">
+    <h2>JavaScript</h2>
+    <p>
+        JavaScript is a programming language that adds interactivity and logic to web pages. 
+        It can manipulate the DOM (Document Object Model), validate forms, and respond to user events. 
+        Example features include toggling themes, counting button clicks, and form validation.
+    </p>
+
+    <h3 style="color: blue;">What I Learned</h3>
+    <p style="color: blue;">
+        I practiced using JavaScript to dynamically change the background, count button clicks, 
+        and validate user input. This showed me how JavaScript connects logic to UI.
+    </p>
+
+    <div class="demo-box">
+        <h3>Click Counter:</h3>
+        <button onclick="incrementCounter()">Click Me</button>
+        <p id="counter">Button clicked: 0 times</p>
+    </div>
+
+    <div class="demo-box">
+        <h3>Form Validation:</h3>
+        <form onsubmit="return validateForm()">
+            <input type="text" id="name" placeholder="Enter your name">
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <script>
+        let count = 0;
+        function incrementCounter() {
+            count++;
+            document.getElementById('counter').innerText = `Button clicked: ${count} times`;
+        }
+
+        function validateForm() {
+            const name = document.getElementById('name').value;
+            if(name.trim() === "") {
+                alert("Please enter your name.");
+                return false;
+            }
+            alert(`Hello, ${name}!`);
+            return false; // Prevent actual form submission for demo
+        }
+    </script>
+</section>
