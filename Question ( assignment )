@@ -1,0 +1,50 @@
+CET138 Full Stack Development
+Assignment 1
+-----------------------------
+Weight: 30% of overall module mark
+
+Assessment Objectives:
+- Demonstrate understanding of technologies used to develop a dynamic web application
+- Design and code static and dynamic web applications
+
+Scenario:
+- You are about to graduate and applying for junior full stack developer positions
+- Companies require a portfolio demonstrating your skills
+
+Task 1 - ePortfolio:
+- Create a portfolio using the Canvas Virtual Learning Environment
+- Showcase understanding of module topics
+- Portfolio must include 5 sections:
+    1. What is full stack development?
+    2. HTML
+    3. CSS
+    4. Bootstrap Framework
+    5. Javascript
+- Each section should include:
+    - A demonstration of understanding
+    - A working example (hosted on UOS webspace)
+    - Explanation of how the example works
+
+Submission Requirements:
+- Submit an accessible public link to your ePortfolio
+- Do not modify files after the submission deadline (will invalidate submission)
+- Check Canvas for assessment deadlines and guidance
+
+Grading Grid:
+--------------------------------------------
+Criteria           | Excellent | Very Good | Good | Minimal | No Evidence
+------------------ | ----------| ----------| -----| ------- | ------------
+Full Stack Dev     | 16-20     | 11-15     | 6-10 | 1-5     | 0
+- Full understanding demonstrated. Evidence thorough and complete.
+
+HTML               | 16-20     | 11-15     | 6-10 | 1-5     | 0
+- Full understanding demonstrated. Evidence thorough and complete.
+
+CSS                | 16-20     | 11-15     | 6-10 | 1-5     | 0
+- Full understanding demonstrated. Evidence thorough and complete.
+
+Bootstrap Framework| 16-20     | 11-15     | 6-10 | 1-5     | 0
+- Full understanding demonstrated. Evidence thorough and complete.
+
+JavaScript         | 16-20     | 11-15     | 6-10 | 1-5     | 0
+- Full understanding demonstrated. Evidence thorough and complete.
