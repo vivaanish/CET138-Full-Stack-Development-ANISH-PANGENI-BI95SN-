@@ -35,13 +35,8 @@ Technologies Used
 
 Learning Outcomes
 
-By completing this project, I have:
-	Developed skills in creating semantic HTML structures and organized content.
-	Learned to apply CSS for styling, layout control, and responsive design principles.
-	Gained experience using Bootstrap components for rapid and professional web design.
-    Implemented JavaScript functionality to enhance interactivity and user experience.
-	Understood the conceptual workflow of full stack development, including frontend, backend, and database interactions.
-	Improved my ability to write clean, organized, and maintainable code.
+   
+	By completing this project, I have developed skills in creating semantic HTML structures and organizing content effectively, learned to apply CSS for styling, layout control, and responsive design principles, and gained experience using Bootstrap components for rapid and professional web design. Additionally, I have implemented JavaScript functionality to enhance interactivity and user experience, understood the conceptual workflow of full stack development—including frontend, backend, and database interactions—and improved my ability to write clean, organized, and maintainable code.
 
 
 
